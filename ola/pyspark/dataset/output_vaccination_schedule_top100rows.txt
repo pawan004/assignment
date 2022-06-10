@@ -1,0 +1,105 @@
++------+--------------------+--------------+----------------+----------+----------------+
+| empid|             empname|vaccination_id|vaccination_date|      city|vaccination_time|
++------+--------------------+--------------+----------------+----------+----------------+
+|188762|      Ellis V Mcneel|       emp_001|      2022-06-11|Washington|        9am-11am|
+|876349|     Collin V Gimbel|       emp_002|      2022-06-11|Washington|        11am-1pm|
+|781210|     Virgilio R Muro|       emp_003|      2022-06-11|Washington|         2pm-4pm|
+|181631|      Sheilah D Elam|       emp_004|      2022-06-11|Washington|         4pm-6pm|
+|735320|     Wilmer Z Carman|       emp_005|      2022-06-11|Washington|        9am-11am|
+|112212|    Charlena G Wyatt|       emp_006|      2022-06-11|Washington|        11am-1pm|
+|132257|    Nenita R Leavell|       emp_007|      2022-06-11|Washington|         2pm-4pm|
+|903037|   Classie N Wilborn|       emp_008|      2022-06-11|Washington|         4pm-6pm|
+|830269|       Ward P Roesch|       emp_009|      2022-06-11|Washington|        9am-11am|
+|310324|        Julee M Jain|      emp_0010|      2022-06-11|Washington|        11am-1pm|
+|578672|  Rosalind B Maroney|      emp_0011|      2022-06-11|Washington|         2pm-4pm|
+|926896|         Son O Blaze|      emp_0012|      2022-06-11|Washington|         4pm-6pm|
+|322612|  Mohamed R Innocent|      emp_0013|      2022-06-11|Washington|        9am-11am|
+|438563|    Zana I Jurgensen|      emp_0014|      2022-06-11|Washington|        11am-1pm|
+|836258|  Quincy E Calabrese|      emp_0015|      2022-06-11|Washington|         2pm-4pm|
+|949375|        Cody A Welsh|      emp_0016|      2022-06-11|Washington|         4pm-6pm|
+|832674|     Elvie N Sinegal|      emp_0017|      2022-06-11|Washington|        9am-11am|
+|733765|         Mia W Seidl|      emp_0018|      2022-06-11|Washington|        11am-1pm|
+|568371|  Joshua V Touchette|      emp_0019|      2022-06-11|Washington|         2pm-4pm|
+|782347|         Kali L Luke|      emp_0020|      2022-06-11|Washington|         4pm-6pm|
+|446118|     Aura I Enriquez|      emp_0021|      2022-06-11|Washington|        9am-11am|
+|277418|    Lorraine H Lobel|      emp_0022|      2022-06-11|Washington|        11am-1pm|
+|691653|    Waylon E Griffey|      emp_0023|      2022-06-11|Washington|         2pm-4pm|
+|741689|       Kelli G Saner|      emp_0024|      2022-06-11|Washington|         4pm-6pm|
+|285854|      Bert J Hazzard|      emp_0025|      2022-06-11|Washington|        9am-11am|
+|188204|      Leisa G Kroger|      emp_0026|      2022-06-11|Washington|        11am-1pm|
+|814962|      Tammara G Capp|      emp_0027|      2022-06-11|Washington|         2pm-4pm|
+|791641|     Samara E Chevez|      emp_0028|      2022-06-11|Washington|         4pm-6pm|
+|765376|       Ying X Nowlin|      emp_0029|      2022-06-11|Washington|        9am-11am|
+|935096|       Tory X Abrego|      emp_0030|      2022-06-11|Washington|        11am-1pm|
+|359568|    Janie W Chitwood|      emp_0031|      2022-06-11|Washington|         2pm-4pm|
+|819894|       Ping E Woodby|      emp_0032|      2022-06-11|Washington|         4pm-6pm|
+|194902|        Jill R Macey|      emp_0033|      2022-06-11|Washington|        9am-11am|
+|444583|         Maren W Gay|      emp_0034|      2022-06-11|Washington|        11am-1pm|
+|784766|      Camila C Zinke|      emp_0035|      2022-06-11|Washington|         2pm-4pm|
+|646712|Albertina P Withe...|      emp_0036|      2022-06-11|Washington|         4pm-6pm|
+|175841|       Arnold O Ealy|      emp_0037|      2022-06-11|Washington|        9am-11am|
+|545324|  Martine I Caudillo|      emp_0038|      2022-06-11|Washington|        11am-1pm|
+|152329|  Clyde J Signorelli|      emp_0039|      2022-06-11|Washington|         2pm-4pm|
+|938044|   Tracy N Smithwick|      emp_0040|      2022-06-11|Washington|         4pm-6pm|
+|701508|      Dario L Brower|      emp_0041|      2022-06-11|Washington|        9am-11am|
+|624173|   Odette E Saladino|      emp_0042|      2022-06-11|Washington|        11am-1pm|
+|589395|      Chong N Voight|      emp_0043|      2022-06-11|Washington|         2pm-4pm|
+|459755|     Dalton R Newman|      emp_0044|      2022-06-11|Washington|         4pm-6pm|
+|979692|  Collin K Sutcliffe|      emp_0045|      2022-06-11|Washington|        9am-11am|
+|734386|   Arleen U Mcmurtry|      emp_0046|      2022-06-11|Washington|        11am-1pm|
+|305624|    Tijuana F Guidry|      emp_0047|      2022-06-11|Washington|         2pm-4pm|
+|675770|   Kenyatta H Purser|      emp_0048|      2022-06-11|Washington|         4pm-6pm|
+|240636|    Kristian W Cantu|      emp_0049|      2022-06-11|Washington|        9am-11am|
+|385597|       Cyrus P Mcnew|      emp_0050|      2022-06-11|Washington|        11am-1pm|
+|941098|Anastacia H Macla...|      emp_0051|      2022-06-11|Washington|         2pm-4pm|
+|538217|   Kyla W Poindexter|      emp_0052|      2022-06-11|Washington|         4pm-6pm|
+|604818|    Andres Y Parrino|      emp_0053|      2022-06-11|Washington|        9am-11am|
+|564647|      Tempie U Hersh|      emp_0054|      2022-06-11|Washington|        11am-1pm|
+|266095|       Dwight K Hick|      emp_0055|      2022-06-11|Washington|         2pm-4pm|
+|968404|    Tiara L Brummitt|      emp_0056|      2022-06-11|Washington|         4pm-6pm|
+|218547|     Errol K Mcinnis|      emp_0057|      2022-06-11|Washington|        9am-11am|
+|118476|        Onie L Coyle|      emp_0058|      2022-06-11|Washington|        11am-1pm|
+|988298|      Amada K Kelsey|      emp_0059|      2022-06-11|Washington|         2pm-4pm|
+|444761|     Ivory H Spiller|      emp_0060|      2022-06-11|Washington|         4pm-6pm|
+|877481|   Luisa W Pendelton|      emp_0061|      2022-06-11|Washington|        9am-11am|
+|513800|      Zoila R Yarber|      emp_0062|      2022-06-11|Washington|        11am-1pm|
+|600010|    Mariana U Coster|      emp_0063|      2022-06-11|Washington|         2pm-4pm|
+|567781|    Robbie F Earnest|      emp_0064|      2022-06-11|Washington|         4pm-6pm|
+|253288|     Fatimah K Janke|      emp_0065|      2022-06-11|Washington|        9am-11am|
+|649699|    Marquis F Halley|      emp_0066|      2022-06-11|Washington|        11am-1pm|
+|227529|         Bonny W Ali|      emp_0067|      2022-06-11|Washington|         2pm-4pm|
+|965193|      Lucas Z Lainez|      emp_0068|      2022-06-11|Washington|         4pm-6pm|
+|928288|    Maxie C Tomasini|      emp_0069|      2022-06-11|Washington|        9am-11am|
+|169356|    Charisse W Scott|      emp_0070|      2022-06-11|Washington|        11am-1pm|
+|796786|     Isaac Q Lemieux|      emp_0071|      2022-06-11|Washington|         2pm-4pm|
+|990704|Sebastian Q Castagna|      emp_0072|      2022-06-11|Washington|         4pm-6pm|
+|441755|         Hae T Magee|      emp_0073|      2022-06-11|Washington|        9am-11am|
+|503504|       Irma V Dugger|      emp_0074|      2022-06-11|Washington|        11am-1pm|
+|173793|      Elise G Levine|      emp_0075|      2022-06-11|Washington|         2pm-4pm|
+|322944|    Warner C Fowlkes|      emp_0076|      2022-06-11|Washington|         4pm-6pm|
+|421612|     Kara J Gannaway|      emp_0077|      2022-06-11|Washington|        9am-11am|
+|965912|    Brendon Y Trudel|      emp_0078|      2022-06-11|Washington|        11am-1pm|
+|556903|    Darius H Lumpkin|      emp_0079|      2022-06-11|Washington|         2pm-4pm|
+|869057|      Robert U Arant|      emp_0080|      2022-06-11|Washington|         4pm-6pm|
+|977283|Christopher B Nol...|      emp_0081|      2022-06-11|Washington|        9am-11am|
+|934436|   Chadwick N Albano|      emp_0082|      2022-06-11|Washington|        11am-1pm|
+|593376|    Lucinda H Ketter|      emp_0083|      2022-06-11|Washington|         2pm-4pm|
+|905455|         Joel U Nedd|      emp_0084|      2022-06-11|Washington|         4pm-6pm|
+|823782|      Carolee U Bean|      emp_0085|      2022-06-11|Washington|        9am-11am|
+|166422|        Cody U Cobbs|      emp_0086|      2022-06-11|Washington|        11am-1pm|
+|378033|      Royce C Glasco|      emp_0087|      2022-06-11|Washington|         2pm-4pm|
+|263840|   Elliott A Griffin|      emp_0088|      2022-06-11|Washington|         4pm-6pm|
+|942100|      Kayce V Boller|      emp_0089|      2022-06-11|Washington|        9am-11am|
+|288430|       Janell H Sohn|      emp_0090|      2022-06-11|Washington|        11am-1pm|
+|813805|   Reinaldo I Pereda|      emp_0091|      2022-06-11|Washington|         2pm-4pm|
+|284934|    Rory H Gilbreath|      emp_0092|      2022-06-11|Washington|         4pm-6pm|
+|114035|     Shelton K Duhon|      emp_0093|      2022-06-11|Washington|        9am-11am|
+|407107|       Hassan V Alba|      emp_0094|      2022-06-11|Washington|        11am-1pm|
+|251019|        Gail N Troup|      emp_0095|      2022-06-11|Washington|         2pm-4pm|
+|353659|     Eloise H Eilers|      emp_0096|      2022-06-11|Washington|         4pm-6pm|
+|237020|Desmond G Retherford|      emp_0097|      2022-06-11|Washington|        9am-11am|
+|132323|    Amanda Q Pullman|      emp_0098|      2022-06-11|Washington|        11am-1pm|
+|404313|        Waldo N Amey|      emp_0099|      2022-06-11|Washington|         2pm-4pm|
+|961493|        Nan P Button|     emp_00100|      2022-06-11|Washington|         4pm-6pm|
++------+--------------------+--------------+----------------+----------+----------------+
+only showing top 100 rows
